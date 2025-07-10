@@ -17,10 +17,9 @@ setup(
     packages=find_packages(),
     install_requires=[
         "requests>=2.25.0",
-        "pandas>=1.3.0",
-        "numpy>=1.20.0"
+        "pandas>=1.3.0"
     ],
-    python_requires=">=3.8",
+    python_requires=">=3.7",
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
