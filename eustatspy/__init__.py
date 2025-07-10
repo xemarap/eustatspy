@@ -1,5 +1,5 @@
 """
-EustatsPy - A Python wrapper for Eurostat APIs
+EuStatsPy - A Python wrapper for Eurostat APIs
 
 This package provides easy access to Eurostat's Statistics and Catalogue APIs,
 allowing users to search for datasets, retrieve metadata, and download data

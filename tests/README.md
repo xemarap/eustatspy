@@ -1,6 +1,6 @@
 # EuStatsPy Test Suite
 
-This directory contains a comprehensive test suite for the EustatsPy package. The tests are designed to be maintainable, fast, and provide good coverage of the codebase.
+This directory contains a comprehensive test suite for the EuStatsPy package. The tests are designed to be maintainable, fast, and provide good coverage of the codebase.
 
 ## Test Structure
 

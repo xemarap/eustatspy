@@ -1,6 +1,6 @@
-# Contributing to EustatsPy
+# Contributing to EuStatsPy
 
-Thank you for your interest in contributing to EustatsPy! This document provides guidelines for contributing to the project.
+Thank you for your interest in contributing to EuStatsPy! This document provides guidelines for contributing to the project.
 
 ## Development Setup
 

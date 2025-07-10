@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Test runner script for EustatsPy.
+Test runner script for EuStatsPy.
 
 This script provides convenient ways to run different types of tests
 and generate reports.
