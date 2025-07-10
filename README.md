@@ -1,4 +1,4 @@
-# EustatsPy
+# EuStatsPy
 
 A Python wrapper for the Eurostat APIs, providing easy access to European statistical data.
 
