@@ -1,3 +1,9 @@
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="images/eustatspy_dark.png">
+  <img alt="Logo" src="images/eustatspy_light.png">
+</picture>
+
 # EuStatsPy
 
 A Python wrapper for the Eurostat APIs, providing easy access to European statistical data.
