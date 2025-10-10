@@ -10,7 +10,7 @@ from .client import EurostatClient
 from .exceptions import EurostatAPIError, DatasetNotFoundError, InvalidParameterError
 from .models import Dataset, TableOfContents, DatasetInfo
 
-__version__ = "0.1.0"
+__version__ = "1.0.0"
 __author__ = "Emanuel Raptis"
 
 # Make the main client easily accessible

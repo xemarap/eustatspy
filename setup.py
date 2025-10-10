@@ -8,7 +8,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="eustatspy",
-    version="0.1.0",
+    version="1.0.0",
     author="Emanuel Raptis",
     description="A Python wrapper for Eurostat APIs",
     long_description=long_description,
@@ -21,7 +21,7 @@ setup(
     ],
     python_requires=">=3.7",
     classifiers=[
-        "Development Status :: 3 - Alpha",
+        "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
         "Intended Audience :: Science/Research",
         "License :: OSI Approved :: MIT License",
