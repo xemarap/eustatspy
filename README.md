@@ -16,7 +16,7 @@ A Python wrapper for the Eurostat APIs, providing easy access to European statis
 ## Installation
 
 ```bash
-pip install git+https://github.com/xemarap/eustatspy.git
+pip install eustatspy
 ```
 
 ## Requirements
