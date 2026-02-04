@@ -10,6 +10,8 @@ A Python wrapper for the Eurostat APIs, providing easy access to European statis
 
 [![Python Versions](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue)](#)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Downloads](https://static.pepy.tech/badge/eustatspy)](https://pepy.tech/project/eustatspy)
+[![Downloads](https://static.pepy.tech/badge/eustatspy/month)](https://pepy.tech/project/eustatspy)
 
 **Note:** This is an independent project and is not associated with Eurostat.
 
